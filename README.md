@@ -11,9 +11,9 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
-
-<!--  IMPOROVEMENTS LOTTERY -->
+**  IMPOROVEMENTS LOTTERY **
 - Player should be able to participate once but with many tickets
 
-<!--  IMPOROVEMENTS AUCTION -->
+
+**  IMPOROVEMENTS  AUCTION  **
 - End Auction only when owner says and not by time

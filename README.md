@@ -12,5 +12,8 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
 
-<!--  IMPOROVEMENTS -->
+<!--  IMPOROVEMENTS LOTTERY -->
 - Player should be able to participate once but with many tickets
+
+<!--  IMPOROVEMENTS AUCTION -->
+- End Auction only when owner says and not by time
